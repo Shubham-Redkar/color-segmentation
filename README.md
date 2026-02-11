@@ -6,6 +6,12 @@ The app analyzes pixel distributions, clusters similar colors, and displays the 
 
 ---
 
+## Live Demo
+
+Check out the live application here: (https://color-segmentation-fzdnoryj4zp6wc99geykqo.streamlit.app/)
+
+---
+
 ## Features
 
 - Upload JPG / PNG images
